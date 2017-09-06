@@ -19,3 +19,4 @@ drwxr-xr-x  2 muhammad.fauzan54 StafCS 4096 Sep  6 15:46 week08
 drwxr-xr-x  2 muhammad.fauzan54 StafCS 4096 Sep  6 15:46 week09
 drwxr-xr-x  2 muhammad.fauzan54 StafCS 4096 Sep  6 15:46 week10
 drwxr-xr-x  2 muhammad.fauzan54 StafCS 4096 Sep  6 15:47 xtra
+Today is 06 Sep 2017 at 18:11:14
