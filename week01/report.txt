@@ -1,0 +1,3 @@
+Pada Lab01 minggu ini. Ditugaskan untuk membuat folder folder yang akan digunakan untuk lab OS semester ini. Kita juga mempelejari script dasar yang
+digunakan di linux serta cara menggunakan CLI.
+Terima Kasih
