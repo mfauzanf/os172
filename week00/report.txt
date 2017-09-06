@@ -1,0 +1,3 @@
+pada task00 kemarin ditugaskan untuk membuat repo di gitlab untuk lab OS
+untuk satu semester ini dan juga diminta untuk login ke server badak.
+Lab 00 kemarin cukup mudah
