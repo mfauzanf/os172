@@ -4,12 +4,3 @@ w00-170829-16-LR-About: Introduction OS, Kelas
 w00-170829-16-LR-About: Introduction OS, Kelas
 w00-170831-20-PS-About: Pengenalan github, Tugas Lab
 w00-170831-21-PS-About: Tutorial login badak, Tugas Lab
-
-
-
-
------------------WEEK01------------------------
-w01-170905-16-LR-About: Perkenalan scripting, Kelas
-w01-170906-15-PS-About: Practice push dan pull melalui console, Tugas Lab
-w01-170906-15-PS-About: Practice foldering putty, Tugas Lab
-w01-170906-15-PS-About: Scripting, Tugas lab

@@ -1,0 +1,5 @@
+-----------------WEEK01------------------------
+w01-170905-16-LR-About: Perkenalan scripting, Kelas
+w01-170906-15-PS-About: Practice push dan pull melalui console, Tugas Lab
+w01-170906-15-PS-About: Practice foldering putty, Tugas Lab
+w01-170906-15-PS-About: Scripting, Tugas lab
