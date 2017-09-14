@@ -1,0 +1,11 @@
+-----------------WEEK02------------------------
+w02-170912-16-LR-About: Protection, Security, Privacy Matters, Kelas
+w02-170912-16-LR-About: Protection, Security, Privacy Matters, Kelas
+w02-170912-16-LR-About: Protection, Security, Privacy Matters, Kelas
+w02-170912-20-PS-About: Practice encryption and digital signature using GnuPG, Tugas Lab
+w02-170912-21-PS-About: Practice encryption and digital signature using GnuPG, Tugas Lab
+w02-170914-13-PS-About: Practice coding C di terminal, Tugas Lab
+w02-170914-14-PS-About: Practice coding C di terminal, Tugas lab
+w02-170914-16-LR-About: Pengenalan C, Kelas
+w02-170914-16-LR-About: Pengenalan C, Kelas
+w02-170914-21-PS-About: Practice back to encryption and digital signature using GnuPG, Tugas Lab
