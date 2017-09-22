@@ -1,0 +1,8 @@
+-----------------WEEK03------------------------
+w03-170919-16-LR-About: Booting and BIOS , Kelas
+w03-170919-16-LR-About: Booting and BIOS , Kelas
+w03-170921-09-PS-About: Boot dan superuser commands, Tugas Lab
+w03-170921-10-PS-About: Boot dan superuser commands, Tugas Lab
+w03-170921-15-PS-About: Practice encryption and digital signature using GnuPG, Tugas Lab
+w03-170921-16-PS-About: Practice encryption and digital signature using GnuPG, Tugas Lab
+ 
