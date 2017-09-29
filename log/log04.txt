@@ -1,0 +1,5 @@
+-----------------WEEK04------------------------
+w04-170926-16-LR-About: I/O process, Kelas
+w04-170927-20-PS-About: Practice variable adress dan pointer, Tugas Lab
+w04-170928-16-LR-About: Bahas soal kuis1, Kelas
+w04-170928-20-LR-About: Practice open dan close pada c, Tugas lab
