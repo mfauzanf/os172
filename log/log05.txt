@@ -1,0 +1,5 @@
+-----------------WEEK05------------------------
+w05-171003-16-LR-About: Single Level Memory, Kelas
+w05-171005-16-LR-About: Multi Level Memory, Kelas
+w05-171007-13-LR-About: Pointer, Rumah
+
