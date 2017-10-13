@@ -1,0 +1,12 @@
+-----------------WEEK06------------------------
+
+w06-171009-16-LR-About: Multi Level Memory, Asistensi di Lab
+
+w06-171010-16-LR-About: Page Fault and Page Replacement Algorithm, Kelas
+
+w06-171011-20-PS-About: Implementasi Multi Level Memory dalam bahasa C, Tugas Lab
+
+w06-171012-16-LR-About: Kuis 2 dari materi awal sampai Multi Level Memory, Tugas Lab
+
+w06-171012-20-PS-About: Implementasi Multi Level Memory dalam bahasa C, Tugas Lab
+w06-171013-17-PS-About: Implementasi Multi Level Memory dalam bahasa C, Tugas Lab
