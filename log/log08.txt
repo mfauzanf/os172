@@ -1,0 +1,8 @@
+-----------------WEEK08------------------------
+w08-171107-16-LR-About: Thread, Semaphore, Synchronization, Kelas
+w08-171108-10-PS-About: Thread, Semaphore, Synchronization, Tugas Lab
+w08-171108-16-PS-About: Thread, Semaphore, Synchronization, Tugas Lab
+w08-171109-16-LR-About: Thread, Semaphore, Synchronization, Kelas
+w08-171110-10-PS-About: Thread, Semaphore, Synchronization, Tugas Lab
+w08-171110-19-PS-About: Thread, Semaphore, Synchronization, Tugas Lab
+
