@@ -1,0 +1,5 @@
+-----------------WEEK09------------------------
+w09-171114-16-LR-About: Scheduling Algorithm, Kelas
+w09-171116-20-PS-About: Scheduling Algorithm, Tugas Lab
+w09-171117-16-LR-About: Scheduling Algorithm, Slide OS and Internet
+w09-171118-08-PS-About: Scheduling Algorithm, Tugas Lab
