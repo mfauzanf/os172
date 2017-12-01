@@ -1,0 +1,4 @@
+-----------------WEEK10------------------------ 
+w10-171128-16-LR-About:Latihan fork,sinkronisasi, Kelas
+w10-171129-20-PS-About:Membuat Ulasan, Tugas Lab
+w10-171130-16-LR-About:Belajar CPU Time, Kelas
